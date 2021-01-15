@@ -2,11 +2,12 @@
   "basics": {
     "name": "Caixin Zhang",
     "label": "Student",
-    "picture": "https://caixinzhang.github.io/images/caixinzhang.jpeg",
-    "email": "caixin@hawaii.edu",
+    "picture": "https://caixinzhang.github.io/images/caixinzhang.ipeg",
+    "email": "caixinzhang@hawaii.edu",
     "phone": "808-683-8772",
     "website": "https://caixinzhang.github.io",
-    "summary": "I am a Junior this year pursuing a B.B.A in Fianance and MIS. I expect to graduate in Spring 2022",
+    "summary": "I am studying for a B.S. in Finance and MIS at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "location": {
       "address": "",
       "postalCode": "96822",
       "city": "Honolulu",
@@ -23,17 +24,17 @@
   },
   "interests": [
     {
-      "name": "Mobile game,Hiking,Music",
+      "name": "Hiking",
       "keywords": [
       ]
     },
     {
-      "name": "data mining",
+      "name": "Mobile game",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Perfumes",
       "keywords": [
       ]
     }
