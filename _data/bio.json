@@ -1,49 +1,52 @@
 {
-  "basics": {
-    "name": "Caixin Zhang",
-    "label": "Student",
-    "picture": "https://caixinzhang.github.io/images/caixinzhang.jpeg",
-    "email": "caixinzhang@hawaii.edu",
-    "phone": "808-683-8772",
-    "website": "https://caixinzhang.github.io",
-    "summary": "I am curently studying Finance and Mangement Information Technology at University of Hawaii. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+  "basics":{
+    "name":"Caixin Zhang",
+    "label":"Student",
+    "picture":"https://caixinzhang.github.io/images/caixinzhang.jpeg",
+    "email":"caixinzhang@hawaii.edu",
+    "phone":"808-683-8772",
+    "website":"https://caixinzhang.github.io",
+    "summary":"I am curently studying Finance and Mangement Information Technology at University of Hawaii. I expect to graduate in Spring, 2022.",
+    "location":{
+      "address":"",
+      "postalCode":"96822",
+      "city":"Honolulu",
+      "countryCode":"USA",
+      "region":"Hawaii"
     },
-    "profiles": [
+    "profiles":[
       {
-        "network": "github",
-        "username": "caixinzhang",
-        "url": "http://github.com/caixinzhang"
-      },
+        "network":"github",
+        "username":"caixinzhang",
+        "url":"http://github.com/caixinzhang"
+      }
     ]
   },
-  "interests": [
+  "interests":[
     {
-      "name": "Hiking",
-      "keywords": [
+      "name":"Hiking",
+      "keywords":[
+        
       ]
     },
     {
-      "name": "Mobile game",
-      "keywords": [
+      "name":"Mobile game",
+      "keywords":[
+        
       ]
     },
     {
-      "name": "Perfumes",
-      "keywords": [
+      "name":"Perfumes",
+      "keywords":[
+        
       ]
     }
   ],
-  "skills": [
+  "skills":[
     {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
+      "name":"Languages and Frameworks",
+      "level":"",
+      "keywords":[
         "C",
         "C++",
         "Java",
@@ -53,9 +56,9 @@
       ]
     },
     {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
+      "name":"Toolsets/OS",
+      "level":"",
+      "keywords":[
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
@@ -64,89 +67,90 @@
       ]
     }
   ],
-  "education": [
+  "education":[
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "institution":"University of Hawaii, Honolulu, HI",
+      "area":"Computer Science (expected Spring, 2018)",
+      "studyType":"B.S.",
+      "startDate":"2013-09-01",
+      "endDate":"Present",
+      "gpa":"",
+      "courses":[
+        
       ]
     }
   ],
-  "work": [
+  "work":[
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
+      "company":"UH Manoa Board of Publications",
+      "position":"Web Developer",
+      "website":"",
+      "startDate":"2015-08-01",
+      "endDate":"Present",
+      "summary":"Head of online presence for Ka Leo",
+      "highlights":[
         "Maintain, update, and oversee official college newspaper website",
         "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
+      "company":"UH Information Technology Services",
+      "position":"Help Desk Consultant",
+      "website":"http://www.hawaii.edu/its/",
+      "startDate":"2015-01-01",
+      "endDate":"2016-03-15",
+      "summary":"",
+      "highlights":[
         "Troubleshoot software, hardware and networking issues over the phone",
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
-  "volunteer": [
+  "volunteer":[
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
+      "organization":"Center for Renewable Energy and Island Sustainability",
+      "website":"http://manoa.hawaii.edu/reis",
+      "position":"Software Developer",
+      "startDate":"2016-01-01",
+      "endDate":"Present",
+      "summary":"Lead developer for weather sensing project",
+      "highlights":[
         "Design firmware for distributed weather sensor network",
         "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
+      "organization":"",
+      "website":"",
+      "position":"Professional organization involvement",
+      "startDate":"",
+      "endDate":"",
+      "summary":"",
+      "highlights":[
         "Chair, ACM Manoa, 2016-Present",
         "Member, IEEE Student Branch, 2014-Present",
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
     }
   ],
-  "awards": [
+  "awards":[
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title":"B+ Scholarship",
+      "date":"2013-Present",
+      "awarder":"State of Hawaii",
+      "summary":"Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title":"First place",
+      "date":"2015",
+      "awarder":"University of Hawaii Micromouse Competition",
+      "summary":"My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
-  "references": [
+  "references":[
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name":"Available upon request",
+      "reference":""
     }
   ]
 }
